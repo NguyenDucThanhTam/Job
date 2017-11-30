@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DemoSOF203">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DemoSOF203.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
